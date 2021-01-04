@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdvancedSteamSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4EngineCode\4.22.3\UnrealEngine-release4.22.3\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\MultiTest\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"D:\MultiTest\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"D:\UE4EngineCode\4.22.3\UnrealEngine-release4.22.3\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\MultiTest\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib"
+/INCLUDE:IMPLEMENT_MODULE_AdvancedSteamSessions

@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{051CBA1E-4347-EBC8-5BEB-71B2F26F658F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MultiTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
